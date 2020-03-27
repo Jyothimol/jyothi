@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package LabUnit7;
+package ooplab.Lab7Prgrms;
 
 /**
  *
@@ -12,7 +12,7 @@ package LabUnit7;
 import java.util.*;
 
 
-public class Fibanocii {
+public class Fibanocci {
    int fib(int n)
    {
        if(n<=1)
@@ -26,7 +26,7 @@ public class Fibanocii {
    public static void main(String args[])
    {
        int i;
-       Fibanocii f=new Fibanocii();
+       Fibanocci f=new Fibanocci();
        Scanner sc=new Scanner(System.in);
        System.out.println("Enter a number graeter than 2");
        int n=sc.nextInt();

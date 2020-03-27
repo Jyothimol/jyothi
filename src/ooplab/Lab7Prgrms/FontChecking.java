@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package LabUnit7;
+package ooplab.Lab7Prgrms;
 
 /**
  *
@@ -28,4 +28,5 @@ public class FontChecking {
        
     }
 }
+
 

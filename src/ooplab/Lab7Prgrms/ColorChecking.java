@@ -3,14 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package LabUnit7;
+package ooplab.Lab7Prgrms;
 
 /**
  *
  * @author Me
  */
-
-    import java.awt.*;
+import java.awt.*;
 
 public class ColorChecking {
     public static void main(String args[])
@@ -31,5 +30,6 @@ public class ColorChecking {
         System.out.println("Red,Green,Blue Combination:"+r);
     }
 }
+
 
 
